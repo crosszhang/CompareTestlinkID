@@ -1,0 +1,27 @@
+Kim Lyngaas,GVL_TS-974,WHAT41510 System is not shutdown with unsupported pm is inserted.xlsm
+Kim Lyngaas,GVL_TS-975,WHAT41510 UPS cannot inverter on if an unsupported power frame is detected.xlsm
+Kim Lyngaas,GVL_TS-976,WHAT41510 UPS cannot inverter on if unsupported frame is detected and alarm .xlsm
+Kim Lyngaas,GVL_TS-977,"WHAT41510 UPS cannot supply more power than the available power, when inverter on.xlsm"
+Kim Lyngaas,GVL_TS-978,WHAT41510 User is warned via alarm if an unsupported pm is detected and inoperable.xlsm
+Kim Lyngaas,GVL_TS-979,WHAT41510 User is warned via alarm if no power module(s) are present.xlsm
+Kim Lyngaas,GVL_TS-980,WHAT41510 Change of availible kVA when PM inserted.xlsm
+Kim Lyngaas,GVL_TS-981,WHAT41510 Change of availible kVA when removed.xlsm
+Kim Lyngaas,GVL_TS-982,WHAT41510 Change of sysdata when PM inserted.xlsm
+Kim Lyngaas,GVL_TS-983,WHAT41510 Change of sysdata when PM removed.xlsm
+Kim Lyngaas,GVL_TS-984,WHAT41510 Reset of UC maintenance bypass.xlsm
+Kim Lyngaas,GVL_TS-985,WHAT41510 Reset of UC normal mode.xlsm
+Kim Lyngaas,GVL_TS-986,WHAT41510 Reset of UC where wrong FW is inserted while the UC reboots.xlsm
+Kim Lyngaas,GVL_TS-987,WHAT41510 Reset of UC where wrong PMtype is inserted while the UC reboots.xlsm
+Kim Lyngaas,GVL_TS-988,WHAT41510 System operable and inoperable due to surv fault PM maintenance bypass mode.xlsm
+Kim Lyngaas,GVL_TS-989,WHAT41510 System operable and inoperable due to surv fault PM normal mode.xlsm
+Kim Lyngaas,GVL_TS-990,WHAT41510 System operable and inoperable due to surv fault PM off mode.xlsm
+Mads Loose Holst,GVL_TS-991,WHAT41510 Unsupported frame detected clear.xlsm
+Mads Loose Holst,GVL_TS-992,WHAT41510 Unsupported frame detected shutdown.xlsm
+Mads Loose Holst,GVL_TS-993,WHAT41510 Unsupported frame detected.xlsm
+Kim Lyngaas,GVL_TS-994,WHAT41510 Unsupported PMType pm inserted into maintenance bypass.xlsm
+Kim Lyngaas,GVL_TS-995,WHAT41510 Unsupported PMType pm inserted into normal mode.xlsm
+Kim Lyngaas,GVL_TS-996,WHAT41510 Unsupported PMType pm inserted into off mode.xlsm
+Mads Loose Holst,GVL_TS-997,WHAT41510 Verify No Power Modules alarm Clear.xlsm
+Mads Loose Holst,GVL_TS-998,WHAT41510 Verify No Power Modules alarm Reset.xlsm
+Mads Loose Holst,GVL_TS-999,WHAT41510 Verify No Power Modules alarm.xlsm
+Mads Loose Holst,GVL_TS-1000,WHAT41510 Verify that sefltest is allowed in the supported modes.xlsm
